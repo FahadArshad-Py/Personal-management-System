@@ -1,0 +1,7 @@
+fahad,Buy Laptop,120000.0,120000.0,180,Completed,21/11/2025 10:15:20
+ali,Buy Bike,80000.0,25000.0,120,Active,12/11/2025 14:45:32
+ali,New Phone,60000.0,60000.0,60,Completed,01/09/2025 18:05:55
+sara,Home Renovation,500000.0,150000.0,365,Active,20/11/2025 11:12:40
+sara,Online Course,15000.0,15000.0,30,Completed,02/08/2025 16:30:00
+amna,Gym Membership,12000.0,4000.0,90,Active,15/11/2025 08:50:12
+amna,Study Table,10000.0,10000.0,45,Completed,10/10/2025 13:22:09

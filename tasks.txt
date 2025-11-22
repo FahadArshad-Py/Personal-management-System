@@ -1,0 +1,10 @@
+fahad,Finish Python project,High,Pending,21/11/2025
+ali,Prepare presentation,Medium,Pending,21/11/2025
+sara,Read AI book,Low,Pending,21/11/2025
+amna,Go grocery shopping,Medium,Pending,21/11/2025
+fahad,Update GitHub repo,High,Pending,21/11/2025
+ali,Practice Django forms,Medium,Pending,21/11/2025
+sara,Write blog post,High,Pending,21/11/2025
+amna,Clean room,Low,Pending,21/11/2025
+fahad,Plan next week tasks,Medium,Pending,21/11/2025
+ali,Study ML concepts,High,Pending,21/11/2025
