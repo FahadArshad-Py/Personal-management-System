@@ -12,7 +12,7 @@ Goal management: create goals, add savings, delete goals
 
 Installation:
 - Clone the repository:
-    git clone https://github.com/YOUR_USERNAME/personal-management-system.git
+    git clone https://github.com/FahadArshad-Py/personal-management-system.git
 
 - Navigate to the project folder:
     cd personal-management-system
@@ -30,3 +30,4 @@ Data File Formats:
 
 Author:
 Muhammad Fahad Arshad
+
