@@ -3,10 +3,10 @@ Personal Management System (Python CLI)
 A simple command-line application to manage tasks, expenses, and savings goals.
 
 Features:
-User registration and login
-Task management: add, view, mark complete, delete, filter
-Expense management: add, view, delete, total calculation
-Goal management: create goals, add savings, delete goals
+- User registration and login
+- Task management: add, view, mark complete, delete, filter
+- Expense management: add, view, delete, total calculation
+- Goal management: create goals, add savings, delete goals
 
 
 
@@ -30,4 +30,5 @@ Data File Formats:
 
 Author:
 Muhammad Fahad Arshad
+
 
